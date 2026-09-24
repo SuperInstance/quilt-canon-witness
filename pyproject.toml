@@ -9,7 +9,7 @@ description = "Cryptographic witness log — append-only ledger for canon events
 readme = "README.md"
 requires-python = ">=3.8"
 license = {text = "MIT"}
-authors = [{name = "SuperInstance", email = "[email protected]"}]
+authors = [{name = "SuperInstance"}]
 keywords = ["witness", "ledger", "cryptographic", "chain", "canon", "quilt"]
 classifiers = [
     "Development Status :: 4 - Beta",
